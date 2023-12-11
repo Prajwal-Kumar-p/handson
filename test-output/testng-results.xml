@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-11-30T10:36:22Z" name="Default suite" finished-at="2023-11-30T10:37:26Z" duration-ms="64097">
+    <groups>
+    </groups>
+    <test started-at="2023-11-30T10:36:22Z" name="Default test" finished-at="2023-11-30T10:37:26Z" duration-ms="64097">
+      <class name="handsonassesment.mmthandson">
+        <test-method is-config="true" signature="openmmt()[pri:0, instance:handsonassesment.mmthandson@2e48362c]" started-at="2023-11-30T16:06:22Z" name="openmmt" finished-at="2023-11-30T16:06:31Z" duration-ms="9482" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openmmt -->
+        <test-method signature="hp()[pri:0, instance:handsonassesment.mmthandson@2e48362c]" started-at="2023-11-30T16:06:31Z" name="hp" finished-at="2023-11-30T16:07:26Z" duration-ms="54595" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- hp -->
+      </class> <!-- handsonassesment.mmthandson -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
